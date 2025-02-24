@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me := adityakatepallewar@gmail.com
-- 😄 Pronoun: "Adi" ... :)
+- 😄 Pronoun: "He" ... :)
 
